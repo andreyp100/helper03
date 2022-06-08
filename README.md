@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Здесь будет та информация обо мне, которая должна лежать в readme файле.
+
 <!--
 **helper03/helper03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
